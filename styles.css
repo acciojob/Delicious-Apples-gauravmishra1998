@@ -1,1 +1,20 @@
 /* your code here */
+.photo-container{
+	background-color:#a5e420;
+}
+.product__photo{
+	background-ground:white;
+}
+.product{
+	background-color:#10e37f;
+	display:flex;
+	width:100vw;
+}
+.apples{
+	display:flex;
+	list-style-type:none;
+	gap:1px;
+}
+li{
+	border:1px solid limegreen;
+}
